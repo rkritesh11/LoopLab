@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rkritesh11/Bootstrap4.git"
+    "url": "git+https://github.com/rkritesh11/LoopLab.git"
   },
   "author": "Ritesh Kumar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rkritesh11/Bootstrap4/issues"
+    "url": "https://github.com/rkritesh11/LoopLab.git"
   },
-  "homepage": "https://github.com/rkritesh11/Bootstrap4#readme",
+  "homepage": "https://github.com/rkritesh11/LoopLab.git#readme",
   "dependencies": {
     "bootstrap": "4.0.0-alpha.6",
     "font-awesome": "^4.7.0"
